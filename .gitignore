@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+outputs/katubedda_checkpoint/
+outputs/*.csv
+.DS_Store
